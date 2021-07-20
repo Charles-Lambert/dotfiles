@@ -1,0 +1,50 @@
+mkdir garden
+mkdir photos
+mkdir build
+rename libpba.so
+touch hello2_controller.ex
+touch hello_view.ex
+touch user_view.ex
+mkdir user
+touch index.html.eex
+touch
+touch user.html.eex
+touch show.html.eex
+touch new.html.eex
+mkdir kspbackup
+touch cache_test.exs
+touch http_client.exs
+mkdir backends
+touch wolfram_test.exs
+mkdir fixtures
+touch wolfram.xml
+touch user_socket_test.ex
+touch test_helpers.ex
+touch video_channel_test.ex
+wq
+rename video_channel_test.exs
+rename user_socket_test.exs
+rename dep
+rename notdotgit
+rename 9595w_Round1_t4.craft
+touch trigger.ex
+touch supervisor.ex
+open_with 
+touch story_view_test.exs
+bulb_backend.ex
+touch bulb_backend.ex
+
+touch lifx_plug.ex
+find fernetly as 
+touch devices
+touch devices.ex
+mkdir 
+touch color_conversion.ex
+mkdir color_conversion
+touch hsbk.ex
+mkdir ksp
+open_with vim
+open_with ls
+open_with cat
+search stdc++
+delete
